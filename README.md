@@ -1,1 +1,1 @@
-# Amazon Web Scrapper Project
+# Amazon Web Scraper Project
